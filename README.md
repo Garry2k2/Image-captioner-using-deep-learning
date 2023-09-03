@@ -1,4 +1,4 @@
-# ImageCaptionGenrator
+# ImageCaptioner
 In this Project we are going to create a deep learning models using pretrained models, CNN, RNN etc. with the help of this model we can generate the caption for any image.Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph.
 
 # Dataset
